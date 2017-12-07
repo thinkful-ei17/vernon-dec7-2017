@@ -1,8 +1,16 @@
 'use strict';
 
-console.log('sup');
+function addItem() {
+  
+}
 
 
 
+addItem();
 
-$('b').css('background-color', 'red');
+  
+// $(function() {
+//   $('body').css('background-color', 'red');
+// });
+  
+
