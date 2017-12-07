@@ -17,6 +17,7 @@ $(".thumbnails").on("click", function (item) {
   //      -> changes img with clickedimg
   //calling/accessing accessibleNavImg when user tab-tab-enter will return the image - img is found in <a elemen
  //      -> changes img with clickedimg
+ console.log(clickedNavImg);
   if (!accessibleNavImg){
 
     previousImage.attr({
